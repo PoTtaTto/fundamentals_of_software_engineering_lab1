@@ -29,4 +29,4 @@ def print_password(length: int):
 
 
 if __name__ == '__main__':
-    print_password(length=50)
+    print_password(length=25)
