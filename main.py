@@ -19,14 +19,14 @@ def print_random_letter():
     print(random.choice(string.ascii_letters), end='')
 
 
-def print_password():
-    set_timer(3)
-    for i in range(15):
+def print_password(length: int):
+    set_timer(seconds=5)
+    for i in range(length):
         if i % 2 == 0:
             print_random_letter()
         else:
-            print_random_number(i, 1000 - i)
+            print_random_number(start=i, end=length)
 
 
 if __name__ == '__main__':
-    print_password()
+    print_password(length=50)
