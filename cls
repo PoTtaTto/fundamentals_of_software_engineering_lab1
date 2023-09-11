@@ -1,4 +1,10 @@
-[33mcommit e9ae6318de9b863d49304ddf69a730bfe9e77770[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+[33mcommit 412fa02a829c2a6f2909d80318f5f69cb3fb6934[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: PoTtaTto <MrPotatsus@yandex.ru>
+Date:   Mon Sep 11 16:52:30 2023 +0300
+
+    Добавление функции вывода случайного числа
+
+[33mcommit e9ae6318de9b863d49304ddf69a730bfe9e77770[m
 Author: PoTtaTto <MrPotatsus@yandex.ru>
 Date:   Mon Sep 11 16:47:46 2023 +0300
 
